@@ -1,3 +1,5 @@
+/*Revised from jcan.ino, all credits go to Dr. Andersen
+Add three functions for filtering*/
 #define REV_ID "$Id: main.cpp 402 2016-09-11 11:25:36Z jcan $"
 
 #define NUM_LEDS 1  //Numbers of led
